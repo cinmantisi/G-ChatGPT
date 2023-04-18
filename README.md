@@ -6,3 +6,6 @@ You can use the module with !gpt prefix. An example : "!gpt Hey GPT, what's up!"
 
 
 İf there's any issue with my extension, reach me with discord : cin mantisi#9685
+
+
+"Any user that in your room can use the command."
