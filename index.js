@@ -1,8 +1,5 @@
 import { Extension, HPacket, HDirection, HUserProfile } from 'gnode-api';
 import { Configuration, OpenAIApi } from 'openai';
-import processlist from "node-processlist";
-let state = false;
-
 
 const extensionInfo = {
     name: "G-ChatGPT",
